@@ -1,2 +1,6 @@
 # Processor Checkpoint for ECE 350
-## NAME (NETID)
+## Arjun Peri
+###
+- This project implements a pipeline processor using system Verilog. 
+- Th
+
